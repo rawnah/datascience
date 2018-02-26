@@ -4,10 +4,10 @@ https://www.kaggle.com/c/instacart-market-basket-analysis.
 Thanks to predecessors for the Kernals.
 
 # Data Exploration
-Run M6-Instacart Data Exploration.ipynb
+    Run M6-Instacart Data Exploration.ipynb
 
 # Feature Engineering & Model
-Run Instacart Kaggle - v8.ipynb
+    Run Instacart Kaggle - v8.ipynb
 
 # Data
 Data is available at https://www.kaggle.com/c/instacart-market-basket-analysis/data
