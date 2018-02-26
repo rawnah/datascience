@@ -11,4 +11,4 @@ Run Instacart Kaggle - v8.ipynb
 
 # Data
 Data is available at https://www.kaggle.com/c/instacart-market-basket-analysis/data
-Data to be kept in the same folder in order run the data exploration and model notebooks. if not, change the variable "ddir"
+Data to be kept in the "Instacart Data" folder in order run the data exploration and model notebooks. if not, change the variable "ddir"
